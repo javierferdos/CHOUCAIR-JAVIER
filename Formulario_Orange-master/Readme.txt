@@ -51,6 +51,3 @@ Formulario_OrangeHRM/target/site/serenity/index
 Abre el archivo index.html en tu navegador para visualizar el reporte.
 
 
-
-
-    Se podrá ver correctamente el reporte de la prueba
